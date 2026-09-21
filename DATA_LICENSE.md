@@ -1,0 +1,1 @@
+The processed numerical inputs in data/ are released under Creative Commons Attribution 4.0 International (CC BY 4.0), with author/rightsholder confirmation: https://creativecommons.org/licenses/by/4.0/ . Underlying third-party source materials are not relicensed by this release; see docs/THIRD_PARTY_NOTICES.md.

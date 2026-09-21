@@ -1,0 +1,7 @@
+# Sources, rights and dependencies
+
+This candidate selects the authors' processed numerical input bank from the frozen formal v3 campaign. Input preparation preserves calibrated thermal-capacity weights, per-MWh fuel/emissions/allowance coefficients, prescribed annual scenario settings, hourly availability and demand, and province-aggregated capacity limits. Physical record counts and attributes may vary with year. Data collection and scenario parameterization are documented in the associated manuscript and its Supplementary Methods; this processed release is not a redistribution of the original named workbooks or a separately collected physical-plant census.
+
+Province-calibrated capacity and source per-MWh coefficients are distinct. The original published data sources and applicable licence/permission conditions remain the authors' responsibility; processing does not automatically remove third-party rights. Confirm the right to redistribute these processed inputs before adopting a licence. No new legal restriction or permission is asserted by this packaging tool.
+
+MATLAB and Gurobi are separately installed, proprietary dependencies. Their binaries, licence files, token-server settings and internal infrastructure addresses are excluded. Standard Python dependencies are installed separately. No maps, map-boundary files, figure assets, fonts, plant names or exact plant coordinates are included.

@@ -1,0 +1,12 @@
+# Never commit environments, local outputs or reports
+.venv/
+venv/
+__pycache__/
+*.pyc
+build/
+outputs/
+results/
+*.mat
+*.log
+*.lic
+.DS_Store

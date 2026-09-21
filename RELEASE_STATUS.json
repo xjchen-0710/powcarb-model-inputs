@@ -1,0 +1,23 @@
+{
+  "version": "v0.1.0",
+  "declared_scope": "model_code_and_inputs_only",
+  "thermal_slices": 192,
+  "hourly_arrays": 144,
+  "capacity_matrices": 32,
+  "main_profiles": 288,
+  "annual_tasks": 4608,
+  "precomputed_outputs_included": false,
+  "plotting_code_included": false,
+  "scientific_analysis_functions_included": true,
+  "plant_names_included": false,
+  "name_crosswalk_included": false,
+  "plant_coordinates_included": false,
+  "individual_line_inventory_included": false,
+  "archived_fixed_reference_included": false,
+  "fixed_reference_source": "User-generated OBA reference output outside the repository",
+  "full_model_runtime_tested": false,
+  "licences_adopted": true,
+  "github_url": "https://github.com/xjchen-0710/powcarb-model-inputs",
+  "doi": null,
+  "remote_publication": false
+}

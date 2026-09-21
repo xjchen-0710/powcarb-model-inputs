@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite the model-inputs release and the associated article."
+title: "POWCARB model code and numerical inputs"
+type: software
+version: "v0.1.0"
+url: "https://github.com/xjchen-0710/powcarb-model-inputs"
+authors:
+  - family-names: "Chen"
+    given-names: "Xinjiang"

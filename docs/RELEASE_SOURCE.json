@@ -1,0 +1,9 @@
+{
+  "base": "reviewed rc2 input bank",
+  "unchanged_LP_constructor_sha256": "582bfcb9b9a0a65ffc3f045316b7a5cfe54675eb534f1b09f29174f9e7c0cd11",
+  "public_adapter": "Explicit locally regenerated fixed reference; no archived outcomes required",
+  "fixed_reference_accounting_changed": false,
+  "full_size_adapter_accepted": false,
+  "input_file_count": 374,
+  "inputs_copied_byte_for_byte": true
+}

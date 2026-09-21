@@ -1,0 +1,1 @@
+Author confirmation has been recorded for the software and processed-input licences specified in LICENSE and DATA_LICENSE.md. Proprietary software and underlying third-party source materials are not relicensed. This record is not a claim of completed remote publication.
